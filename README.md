@@ -6,12 +6,25 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/18X1eOaOPe_8FAW0xrvcWJSKCcSxh0Wxq
+## 🌐 Live Website
+
+**[stufi.vercel.app](https://stufi.vercel.app)**
+
+## 📂 Links
+
+- **GitHub:** [github.com/justfun2842](https://github.com/justfun2842)
+- **AI Studio:** [View in AI Studio](https://ai.studio/apps/drive/18X1eOaOPe_8FAW0xrvcWJSKCcSxh0Wxq)
+
+## 🛠️ Tech Stack
+
+- React + TypeScript
+- Vite
+- Tailwind CSS
+- Vercel (Deployment)
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
