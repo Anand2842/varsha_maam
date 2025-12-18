@@ -1,6 +1,19 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #111827;
+  --color-accent: #10B981;
+  --color-secondary: #6B7280;
+  --color-accent-light: #D1FAE5;
+  --color-warning-bg: #FFFBEB;
+  --color-warning-text: #92400E;
+  --color-error-bg: #FEF2F2;
+  --color-error-text: #991B1B;
+  
+  --font-family-sans: Inter, system-ui, sans-serif;
+  --font-family-serif: Georgia, serif;
+  --font-family-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
 
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
