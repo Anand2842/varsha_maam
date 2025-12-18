@@ -71,8 +71,17 @@ export const Footer = () => {
             </div>
         </div>
         
-        <div className="text-center text-xs text-slate-600 pt-12 border-t border-slate-800">
-            Interactive artifact generated based on the original research paper.
+        <div className="text-center text-xs text-slate-500 pt-12 border-t border-slate-800 space-y-2">
+            <p>This webpage is a digital companion to the published research paper and does not replace the original publication.</p>
+            <p>Interactive Research Artifact created by Anand as part of an academic digital research pilot.</p>
+            <a 
+              href="https://researchartifact.lovable.app" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-slate-400 hover:text-slate-300 transition-colors"
+            >
+              Learn more about interactive research artifacts
+            </a>
         </div>
       </div>
     </footer>
